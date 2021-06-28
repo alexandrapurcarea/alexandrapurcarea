@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! 🐣
 
-<!--
-**alexandrapurcarea/alexandrapurcarea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alexandra (also go by Alex), a third year Computer Science and AI student at the University of Edinburgh. When I'm not studying or working on a project, I am involved in my university's [tech society](https://comp-soc.com/) and run a book club.
 
-Here are some ideas to get you started:
+🔎 I’m looking for an internship next summer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: https://www.linkedin.com/in/alexandra-purcarea/
+
+🔭 I’m currently working on: a data science project and technical interview problems
+
+💪 I'm also working on: my pushups 😆
+
+🌱 I’m currently learning: Swedish and Japanese
+
+😄 Pronouns: She/her
+
+⚡ Fun fact: I have lived in four countries - so far!
