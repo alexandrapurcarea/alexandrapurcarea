@@ -2,8 +2,6 @@
 
 I'm Alexandra (also go by Alex), a third year Computer Science and AI student at the University of Edinburgh. When I'm not studying or working on a project, I am involved in my university's [tech society](https://comp-soc.com/) and run a book club.
 
-🔎 I’m looking for an internship next summer!
-
 📫 How to reach me: https://www.linkedin.com/in/alexandra-purcarea/
 
 🔭 I’m currently working on: a data science project and technical interview problems
